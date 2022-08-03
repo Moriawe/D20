@@ -7,7 +7,7 @@
 <template>
   <h2>Kattungar</h2>
   <h3>Kakan ❤️ Nuutii</h3>
-  <!-- <img id="love" src="img/kakanonuutii.jpg" alt="Kakan o Nuutii" />-->
+  <img id="love" src="/img/kakanonuutii.jpg" alt="Kakan o Nuutii" />
   <h3>D20's Kakkull</h3>
   <p>Födda 17/7 2022</p>
 
@@ -20,7 +20,7 @@
   <div class="card-group">
     <div class="card">
       <img
-        src="img/kakkullen/Baddaren-Dice-2-small.jpg"
+        src="/img/kakkullen/Baddaren-Dice-2-small.jpg"
         class="card-img-top"
         alt="Baddaren"
       />
@@ -37,7 +37,7 @@
     </div>
     <div class="card">
       <img
-        src="img/kakkullen/Brago-Dice-2-small.jpg"
+        src="/img/kakkullen/Brago-Dice-2-small.jpg"
         class="card-img-top"
         alt="Brago"
       />
@@ -54,7 +54,7 @@
     </div>
     <div class="card">
       <img
-        src="img/kakkullen/Ballerina-Dice-1-small.jpg"
+        src="/img/kakkullen/Ballerina-Dice-1-small.jpg"
         class="card-img-top"
         alt="Ballerina"
       />
@@ -71,7 +71,7 @@
     </div>
     <div class="card">
       <img
-        src="img/kakkullen/Singoalla-Dice-1-small.jpg"
+        src="/img/kakkullen/Singoalla-Dice-1-small.jpg"
         class="card-img-top"
         alt="Singoalla"
       />
