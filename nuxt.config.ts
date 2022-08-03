@@ -9,8 +9,13 @@ export default defineNuxtConfig({
     link: [
       {
         rel: "stylesheet",
+        //href: "./scss/custom.scss"
         href: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&display=swap'
+      }
     ],
     script: [
       {

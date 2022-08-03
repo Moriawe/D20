@@ -20,6 +20,9 @@ h2 {
         <div class="card-body">
           <h5 class="card-title">Silverblomman's Tuttifrutti AKA "Kakan"</h5>
           <p class="card-text">
+            <small class="text-muted">Född: 2019-11-18</small>
+          </p>
+          <p class="card-text">
             Kakan är vår första hona. Hon är en riktigt smart katt som gillar
             utmaningar och att ta promenader i skogen.
           </p>
@@ -29,9 +32,6 @@ h2 {
               target="_blank"
               >Stamtavla / Pedigree</a
             >
-          </p>
-          <p class="card-text">
-            <small class="text-muted">Född: 2019-11-18</small>
           </p>
         </div>
       </div>
@@ -53,6 +53,9 @@ h2 {
             Ooo X-Files Smoking Hot Shadow Man AKA "Skuggan"
           </h5>
           <p class="card-text">
+            <small class="text-muted">Född: 2020-06-13</small>
+          </p>
+          <p class="card-text">
             Skuggan är vår kastrerade hane som agerar lekfarbror med
             kattungarna. Han tycker mycket om bus och lek men har även tid att
             mysa en stund i sängen under högljutt purrande.
@@ -63,9 +66,6 @@ h2 {
               target="_blank"
               >Stamtavla / Pedigree</a
             >
-          </p>
-          <p class="card-text">
-            <small class="text-muted">Född: 2020-06-13</small>
           </p>
         </div>
       </div>
