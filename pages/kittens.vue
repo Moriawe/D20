@@ -7,7 +7,7 @@
 <template>
   <h2>Kattungar</h2>
   <h3>Kakan ❤️ Nuutii</h3>
-  <img id="love" src="img/kakanonuttii.jpg" />
+  <img id="love" src="img/kakanonuutii.jpg" alt="Kakan o Nuutii" />
   <h3>D20's Kakkull</h3>
   <p>Födda 17/7 2022</p>
 
