@@ -11,10 +11,18 @@
 
     <h3>Galleri</h3>
     <div class="gallery">
-      <img src="/img/kakkullen/20220804_brago0.jpg" alt="" class="thumb" />
-      <img src="/img/kakkullen/20220804_brago1.jpg" alt="" class="thumb" />
-      <img src="/img/kakkullen/20220804_brago2.jpg" alt="" class="thumb" />
-      <img src="/img/kakkullen/20220804_brago3.jpg" alt="" class="thumb" />
+      <a href="/img/kakkullen/20220804_brago0.jpg">
+        <img src="/img/kakkullen/20220804_brago0.jpg" alt="" class="thumb" />
+      </a>
+      <a href="/img/kakkullen/20220804_brago1.jpg">
+        <img src="/img/kakkullen/20220804_brago1.jpg" alt="" class="thumb" />
+      </a>
+      <a href="/img/kakkullen/20220804_brago2.jpg">
+        <img src="/img/kakkullen/20220804_brago2.jpg" alt="" class="thumb" />
+      </a>
+      <a href="/img/kakkullen/20220804_brago3.jpg">
+        <img src="/img/kakkullen/20220804_brago3.jpg" alt="" class="thumb" />
+      </a>
     </div>
   </div>
 </template>
