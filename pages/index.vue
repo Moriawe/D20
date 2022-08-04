@@ -2,6 +2,7 @@
 .container-md {
   text-align: center;
   margin: auto;
+  margin-top: 40px;
 }
 
 .news {
@@ -23,7 +24,7 @@
 <template>
   <div class="container-md">
     <h2>Välkomna!</h2>
-    <p>Vi är en liten uppfödning med Europeisk korthår.</p>
+    <p>Vi är en liten uppfödning med Européer.</p>
   </div>
   <div class="news">
     <h2>Nyheter</h2>
@@ -53,6 +54,14 @@
         På FIFEs generalförsamling har det tagits beslut att from 1 januari 2023
         får inga kattungar från FIFE/SVERAK-uppfödare flytta före 14 veckors
         ålder.
+      </p>
+    </div>
+    <div class="article">
+      <h4>Resa till Åbo</h4>
+      <p>2022-05-11</p>
+      <p>
+        Vi åker till Åbo med Kakan för att träffa Kyöpelivuoren Nellin Narkissi
+        (Nuutti). Förhoppningsvis blir det bebisar någon gång i juli.
       </p>
     </div>
     <div class="article">

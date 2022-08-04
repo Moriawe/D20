@@ -9,7 +9,9 @@ footer {
 </style>
 
 <template>
-  <footer>
-    <p>© Jennie Lindahl 2022</p>
-  </footer>
+  <div class="container-md">
+    <footer>
+      <p>© Jennie Lindahl 2022</p>
+    </footer>
+  </div>
 </template>
