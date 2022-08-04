@@ -38,7 +38,7 @@
       <div class="card-group">
         <div class="card">
           <img
-            src="/img/kakkullen/Baddaren-Dice-2-small.jpg"
+            src="/img/kakkullen/20220804_baddaren5.jpg"
             class="card-img-top"
             alt="Baddaren"
           />
@@ -54,20 +54,20 @@
         </div>
         <div class="card">
           <img
-            src="/img/kakkullen/Brago-Dice-2-small.jpg"
+            src="/img/kakkullen/20220804_brago2.jpg"
             class="card-img-top"
             alt="Brago"
           />
           <div class="card-body">
             <h5 class="card-title"><a href="/kakkullen/brago">Brago</a></h5>
             <p class="card-text">
-              <small class="text-muted">♀ Röd (EUR d)</small>
+              <small class="text-muted">♀ Röd (EUR ds?)</small>
             </p>
           </div>
         </div>
         <div class="card">
           <img
-            src="/img/kakkullen/Ballerina-Dice-1-small.jpg"
+            src="/img/kakkullen/20220804_ballerina3.jpg"
             class="card-img-top"
             alt="Ballerina"
           />
@@ -83,7 +83,7 @@
         </div>
         <div class="card">
           <img
-            src="/img/kakkullen/Singoalla-Dice-1-small.jpg"
+            src="/img/kakkullen/20220804_singoalla4.jpg"
             class="card-img-top"
             alt="Singoalla"
           />

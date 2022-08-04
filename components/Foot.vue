@@ -10,7 +10,7 @@ footer {
 
 <template>
   <div class="container-md">
-    <footer>
+    <footer style="background-color: #4ba2ca">
       <p>© Jennie Lindahl 2022</p>
     </footer>
   </div>

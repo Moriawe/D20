@@ -16,6 +16,11 @@ $custom-colors: (
   "custom-color": #900
 );
 
+$navbar-dark-color:                 rgba($white, .55);
+$navbar-dark-hover-color:           rgba($white, .75);
+$navbar-dark-active-color:          $white;
+//$bg-dark:
+
 // import bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "../node_modules/bootstrap/scss/functions";

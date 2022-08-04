@@ -7,5 +7,13 @@
       Tjejen med den gällaste rösten och en riktig sötlök. Sticker ibland ut
       huvudet ur bolådan men brottas mest med syrran Brago.
     </p>
+
+    <h3>Galleri</h3>
+    <div class="gallery">
+      <img src="/img/kakkullen/20220804_singoalla0.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_singoalla1.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_singoalla2.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_singoalla3.jpg" alt="" class="thumb" />
+    </div>
   </div>
 </template>

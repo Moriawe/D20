@@ -1,3 +1,14 @@
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.thumb {
+  width: 200px;
+}
+</style>
+
 <template>
   <div class="container-md">
     <h2>Baddaren</h2>
@@ -9,5 +20,15 @@
       marken utanför bolådan snuttar han gärna hos mamma och somnar med nappen i
       munnen.
     </p>
+
+    <h3>Galleri</h3>
+    <div class="gallery">
+      <img src="/img/kakkullen/20220804_baddaren0.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_baddaren1.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_baddaren2.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_baddaren3.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_baddaren4.jpg" alt="" class="thumb" />
+      <img src="/img/kakkullen/20220804_baddaren5.jpg" alt="" class="thumb" />
+    </div>
   </div>
 </template>

@@ -1,3 +1,12 @@
+<script>
+export default {
+  data() {
+    return {}
+  },
+  methods: {},
+}
+</script>
+
 <style>
 h1 {
   font-family: "Annie Use Your Telescope", cursive;
@@ -9,16 +18,15 @@ h1 {
 .logo {
   max-width: 100px;
 }
-
-button {
-  border: none;
-}
 </style>
 
 <template>
   <h1>D20's Kattuppfödning</h1>
   <div class="container-md">
-    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark">
+    <nav
+      class="navbar navbar-expand-lg sticky-top navbar-dark"
+      style="background-color: #4ba2ca"
+    >
       <div class="container-fluid">
         <a class="navbar-brand" href="/"
           ><img class="logo" src="/img/D20Logo.png" alt="home"
@@ -37,7 +45,7 @@ button {
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/">Hem</a>
+              <a class="nav-link" aria-current="page" href="/">Hem</a>
             </li>
 
             <li class="nav-item dropdown">
