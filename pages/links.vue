@@ -1,5 +1,6 @@
 <template>
   <div class="container-md">
+    <h2>Nyttiga länkar</h2>
     <p>
       <a href="https://www.pawpeds.com/cms/index.php/en/" target="_blank"
         >PawPeds</a
@@ -22,6 +23,29 @@
         >Jordbruksverket</a
       >
       om vilka regler som gäller för dig som kattägare.
+    </p>
+    <h6>Européen</h6>
+    <p>
+      <a href="https://www.sverak.se/kattraser/europe/">SVERAK om Europén</a>
+    </p>
+    <p>
+      <a href="https://sv.wikipedia.org/wiki/Europ%C3%A9_(kattras)"
+        >Wikipedia</a
+      >
+    </p>
+    <p>
+      <a href="http://katter.nu/europe/">Katter.nu</a>
+    </p>
+    <h6>Katthjälpsorganisationer</h6>
+    <p>
+      <a href="https://frusnatassar.se/">Frusna tassar</a>
+      - Göteborg
+    </p>
+    <p>
+      <a href="https://www.facebook.com/KatthjalpenKungalvStenungsund"
+        >Katthjälpen</a
+      >
+      - Kungälv, Stenungsund.
     </p>
   </div>
 </template>

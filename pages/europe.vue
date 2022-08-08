@@ -1,3 +1,9 @@
+<style scoped>
+p {
+  text-align: left;
+}
+</style>
+
 <template>
   <div class="container-md">
     <h2>Europé</h2>
@@ -30,31 +36,9 @@
       omdiskuterad process som trädde i kraft under slutet av 1982 och gällde
       fram till 1985.
     </p>
-    <h5>Päls</h5>
-    <p>
-      Pälsen är kort, spänstig, tät och glansig och förekommer i många färger
-      och mönster.
-    </p>
-    <h5>Storlek och utseende</h5>
-    <p>
-      Det är en kraftig och muskulös katt med medellånga ben och stadiga och
-      runda tassar. Svansen är mediumlång och ganska tjock vid basen men smalnar
-      av till en rundad tipp. Européns huvud är ganska stort och ger intryck av
-      att vara rundat, men är något längre än det är brett. Hakan är kraftig och
-      nosen är rak och jämnbred och övergår i en mjuk böj mellan ögonen. Ögonen
-      är runda och öppna och lätt snedställda. Öronen är medelstora och är lika
-      breda som höga.
-    </p>
-    <p>
-      <a href="https://www.sverak.se/kattraser/europe/">SVERAK om Europén</a>
-    </p>
-    <p>
-      <a href="https://sv.wikipedia.org/wiki/Europ%C3%A9_(kattras)"
-        >Wikipedia</a
-      >
-    </p>
-    <p>
-      <a href="http://katter.nu/europe/">Katter.nu</a>
-    </p>
+    <i>(hämtat från SVERAK's hemsida)</i>
+    <p></p>
+    <h5>Utseende</h5>
+    <p>Se eget avsnitt <a href="/colors">Européens utseende</a></p>
   </div>
 </template>

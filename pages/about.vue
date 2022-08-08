@@ -28,13 +28,20 @@
       <p>
         Våra katter är innekatter men tycker om att följa med ut på promenader i
         sele. Mest i närområdet men vi har även åkt på kanottur och gått i olika
-        strövarområden.
+        strövarområden. De har även tillgång till en stor balkong som de kan
+        spana ifrån på dagarna. Vi hade en äldre huskatt innan som var utekatt
+        men det bor många katter på gatan och det blev ofta bråk och
+        veterinärbesök, därför har vi valt att hålla dom inne.
       </p>
       <p>
-        Ni kan följa våra katter på
+        <i class="bi bi-instagram"></i>
         <a href="https://www.instagram.com/katten_kakan/" target="_blank"
-          >instagram.</a
-        >
+          ><img
+            src="/img/1200px-Instagram.svg.png"
+            alt="instagram logo"
+            style="width: 30px"
+        /></a>
+        Katternas instagram
       </p>
     </div>
     <div id="members">

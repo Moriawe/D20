@@ -62,8 +62,13 @@ h1 {
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="/about">Om oss</a></li>
                 <li><a class="dropdown-item" href="/contact">Kontakt</a></li>
+                <li>
+                  <a class="dropdown-item" href="/buyCat">Köpa katt av oss</a>
+                </li>
+                <li><a class="dropdown-item" href="/faq">FAQ</a></li>
                 <li><hr class="dropdown-divider" /></li>
                 <li><a class="dropdown-item" href="/europe">Europé</a></li>
+                <li><a class="dropdown-item" href="/colors">Färger</a></li>
               </ul>
             </li>
 
@@ -95,11 +100,13 @@ h1 {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Kattungar
+                Till salu
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li><a class="dropdown-item" href="/kittens">Kullar</a></li>
+
                 <li><hr class="dropdown-divider" /></li>
+                <li><b>Kattungar</b></li>
                 <li>
                   <a class="dropdown-item" href="/kakkullen/baddaren"
                     >Baddaren</a
