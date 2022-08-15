@@ -1,8 +1,8 @@
 <template>
   <div class="container-md">
-    <h2>Brago</h2>
+    <h1>D20's Brago</h1>
 
-    <h5>2 veckor</h5>
+    <h3>3 veckor</h3>
     <p>
       Största flickan är en riktig brottare och knör gärna undan de andra för
       den bästa platsen. Hon ogillar dock att äventyra utanför lådan utan håller

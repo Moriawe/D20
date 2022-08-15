@@ -1,6 +1,6 @@
 <style>
 footer {
-  background-color: black;
+  background-color: #4ba2ca;
   color: white;
   height: 50px;
   padding: 10px;
@@ -10,7 +10,7 @@ footer {
 
 <template>
   <div class="container-md">
-    <footer style="background-color: #4ba2ca">
+    <footer>
       <p>© Jennie Lindahl 2022</p>
     </footer>
   </div>

@@ -6,7 +6,7 @@ p {
 
 <template>
   <div class="container-md">
-    <h2>Europé</h2>
+    <h1>Europé</h1>
     <p>
       Europé är en livfull, anpassningsbar, godmodig och klok ras. Europé är
       inte en huskatt – utan är en raskatt med dokumenterad bakgrund och utan
@@ -21,7 +21,7 @@ p {
       (blå) i SVERAKs stambok. EMS raskod: EUR Engelskt namn: European
     </p>
 
-    <h5>Historia och ursprung</h5>
+    <h2>Historia och ursprung</h2>
     <p>
       Från början hade den rasnamnet svensk huskatt, men döptes senare om till
       europeiskt korthår och heter numera enbart europé. Det är inte helt
@@ -38,7 +38,7 @@ p {
     </p>
     <i>(hämtat från SVERAK's hemsida)</i>
     <p></p>
-    <h5>Utseende</h5>
+    <h2>Utseende</h2>
     <p>Se eget avsnitt <a href="/colors">Européens utseende</a></p>
   </div>
 </template>

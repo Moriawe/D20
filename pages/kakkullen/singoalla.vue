@@ -1,8 +1,8 @@
 <template>
   <div class="container-md">
-    <h2>Singoalla</h2>
+    <h1>D20's Singoalla</h1>
 
-    <h5>2 veckor</h5>
+    <h3>3 veckor</h3>
     <p>
       Tjejen med den gällaste rösten och en riktig sötlök. Sticker ibland ut
       huvudet ur bolådan men brottas mest med syrran Brago.

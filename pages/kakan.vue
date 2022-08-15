@@ -1,6 +1,6 @@
 <template>
   <div class="container-md">
-    <h2>Kakan</h2>
+    <h1>Kakan</h1>
     <p>
       Kakan är vår första hona. Hon är en riktigt smart katt som gillar
       utmaningar och att ta promenader i skogen.

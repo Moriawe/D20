@@ -1,0 +1,76 @@
+
+// Fonts
+@charset "UTF-8";
+@font-face {
+  font-family: 'Annie Use Your Telescope';
+  font-weight: normal;
+  font-style: normal;
+  src: url('AnnieUseYourTelescope-Regular.ttf') format('truetype');
+}
+
+// change bootstrap
+$primary: #4ba2ca;
+$headings-font-family: 'Annie Use Your Telescope';
+
+
+
+$theme-colors: (
+  'primary': #4ba2ca,
+  //'primary-background': #bde4f7,
+  'secondary-background': white,
+  'search-icon-color': #0b604d,
+
+  'text-color': #185a9d,
+);
+
+// Regular CSS
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Annie Use Your Telescope', sans-serif;
+}
+
+h1 {
+  color: #185a9d;
+}
+
+.container-md {
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+}
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+// custom classes
+$custom-colors: (
+  "myBlue": #4ba2ca,
+  "myGreen": #5eca55,
+  "myYellow": #fffd3d,
+);
+
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+
+// DO I need these?
+$body-bg: map-get($theme-colors, 'primary-background');
+$body-color: map-get($theme-colors, 'text-color');
+
+$list-group-color: map-get($theme-colors, 'text-color');
+$list-group-bg: map-get($theme-colors, 'primary-background');
+$list-group-border-color: map-get($theme-colors, 'primary-background');
+
+$list-group-hover-bg: map-get($theme-colors, 'primary-background');
+$list-group-active-color: map-get($theme-colors, 'primary-background');
+
+$list-group-disabled-color: gray-600;
+$list-group-disabled-bg: list-group-bg;
+
+$list-group-action-hover-color: map-get($theme-colors, 'primary');
+
+$list-group-action-active-color: map-get($theme-colors, 'primary');
+$list-group-action-active-bg: list-group-bg;
+
+// import bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";

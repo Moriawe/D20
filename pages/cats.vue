@@ -1,13 +1,12 @@
-<style>
-h2 {
-  text-align: center;
-  margin: 40px;
+<style scoped>
+.col-md-4 {
+  align-self: center;
 }
 </style>
 
 <template>
   <div class="container-md">
-    <h2>Våra katter</h2>
+    <h1>Våra katter</h1>
     <div class="card mb-3 mx-auto" style="max-width: 700px">
       <div class="row g-0">
         <div class="col-md-4">
@@ -19,8 +18,8 @@ h2 {
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h5 class="card-title">Silverblomman's Tuttifrutti</h5>
-            <h6>"Kakan"</h6>
+            <h2 class="card-title">Silverblomman's Tuttifrutti</h2>
+            <h3>"Kakan"</h3>
             <p class="card-text">
               <small class="text-muted">♀ Född: 2019-11-18</small>
             </p>
@@ -47,8 +46,8 @@ h2 {
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h5 class="card-title">Ooo X-Files Smoking Hot Shadow Man</h5>
-            <h6>"Skuggan"</h6>
+            <h2 class="card-title">Ooo X-Files Smoking Hot Shadow Man</h2>
+            <h3>"Skuggan"</h3>
             <p class="card-text">
               <small class="text-muted">♂ Född: 2020-06-13</small>
             </p>

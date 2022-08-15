@@ -1,6 +1,6 @@
 <template>
   <div class="container-md">
-    <h2>Kontakt</h2>
+    <h1>Kontakt</h1>
     <p>moriawe22 @ gmail.com</p>
     <p>Vi finns i Kungälv, 2 mil norr om Göteborg</p>
     <iframe
@@ -8,7 +8,6 @@
       width="600"
       height="450"
       style="border: 0"
-      allowfullscreen=""
       loading="lazy"
       referrerpolicy="no-referrer-when-downgrade"
     ></iframe>

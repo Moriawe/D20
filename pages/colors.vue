@@ -19,12 +19,12 @@ h5 {
 
 <template>
   <div class="container-md">
-    <h2>Européens utseende</h2>
+    <h1>Européens utseende</h1>
     <i
       >(hämtat, med tillåtelse, från
       <a href="https://yamasee.eu/europe/euColors.php">Yamasee's hemsida</a>)</i
     >
-    <h5>Storlek och utseende</h5>
+    <h2>Storlek och utseende</h2>
     <p>
       Det är en kraftig och muskulös katt med medellånga ben och stadiga och
       runda tassar. Svansen är mediumlång och ganska tjock vid basen men smalnar
@@ -34,12 +34,12 @@ h5 {
       är runda och öppna och lätt snedställda. Öronen är medelstora och är lika
       breda som höga.
     </p>
-    <h5>Ögon</h5>
+    <h2>Ögon</h2>
     <p>
       Bärnstensfärgade ögon föredras på solida varianter utan silver. Gröna ögon
       föredras på svart & blå smoke.
     </p>
-    <h5>Päls</h5>
+    <h2>Päls</h2>
     <p>
       Pälsen är kort, spänstig, tät och glansig och förekommer i många färger
       och mönster.

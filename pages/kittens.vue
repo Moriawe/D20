@@ -1,4 +1,4 @@
-<style>
+<style lang="scss" scoped>
 .litter {
   text-align: center;
 }
@@ -21,12 +21,12 @@
 
 <template>
   <div class="container-md">
-    <h2>Kattungar</h2>
+    <h1>Kattungar</h1>
     <div id="kittens">
       <div class="litter">
-        <h3>Kakan ❤️ Nuutti</h3>
+        <h2>Kakan ❤️ Nuutti</h2>
         <img id="love" src="/img/kakanonuutti.jpg" alt="Kakan o Nuutti" />
-        <h3>D20's Kakkull</h3>
+        <h2>D20's Kakkull</h2>
         <p>Födda 17/7 2022</p>
 
         <a
@@ -61,7 +61,7 @@
           <div class="card-body">
             <h5 class="card-title"><a href="/kakkullen/brago">Brago</a></h5>
             <p class="card-text">
-              <small class="text-muted">♀ Röd (EUR ds?)</small>
+              <small class="text-muted">♀ Röd smoke? (EUR ds?)</small>
             </p>
           </div>
         </div>

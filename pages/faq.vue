@@ -10,8 +10,8 @@ li {
 
 <template>
   <div class="container-md">
-    <h2>FAQ</h2>
-    <h6>Den ser ju ut som en bondkatt?</h6>
+    <h1>FAQ</h1>
+    <h3>Den ser ju ut som en bondkatt?</h3>
     <p>
       Ja! Den är vår urgamla, inhemska korthårskatt och direkt ättling till den
       första tamkatten, det är därför den har utsetts till Sveriges nationalras.
@@ -31,7 +31,7 @@ li {
       perser, siames etc.) i släktskapet även om dom härstammar ifrån samma
       grund.
     </p>
-    <h6>Varför en raskatt?</h6>
+    <h3>Varför en raskatt?</h3>
     <p>
       Det kanske inte säger så mycket att katterna kommer med en stamtavla men
       det betyder att vi har koll på deras släktskap och hälsa så att det inte
@@ -46,7 +46,7 @@ li {
       innebär att vi följer deras stadgar och regler. Det är en kvalitétsäkring
       att vi är seriösa uppfödare med god katthållning.
     </p>
-    <h6>Varför så dyra?</h6>
+    <h3>Varför så dyra?</h3>
     <p>
       Det kostar pengar att göra veterinärbesiktningar, DNA-tester och att hitta
       en bra hane. Det är väldigt få kattungeuppfödare som tjänar pengar på sin

@@ -9,8 +9,7 @@ export default defineNuxtConfig({
     link: [
       {
         rel: "stylesheet",
-        //href: "./scss/custom.scss"
-        href: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+        href: "/assets/custom.scss"
       },
       {
         rel: 'stylesheet',
