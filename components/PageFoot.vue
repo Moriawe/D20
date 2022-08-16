@@ -1,4 +1,4 @@
-<style>
+<style lang="scss" scoped>
 footer {
   background-color: #4ba2ca;
   color: white;

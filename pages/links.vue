@@ -1,3 +1,5 @@
+<style lang="scss" scoped></style>
+
 <template>
   <div class="container-md">
     <h1>Nyttiga länkar</h1>

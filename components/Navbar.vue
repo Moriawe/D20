@@ -7,7 +7,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .navbar {
   background: linear-gradient(90deg, #4298c3 0%, #43cea2 100%);
 }

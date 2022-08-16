@@ -1,3 +1,4 @@
+<style lang="scss" scoped></style>
 <template>
   <div class="container-md">
     <h1>Kakan</h1>

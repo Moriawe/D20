@@ -1,4 +1,4 @@
-<style scoped>
+<style lang="scss" scoped>
 p {
   text-align: left;
 }

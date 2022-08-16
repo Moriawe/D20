@@ -1,4 +1,4 @@
-<style scoped>
+<style lang="scss" scoped>
 .news {
   display: flex;
   flex-direction: column;

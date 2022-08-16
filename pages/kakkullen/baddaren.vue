@@ -1,4 +1,4 @@
-<style>
+<style lang="scss" scoped>
 .gallery {
   display: flex;
   flex-wrap: wrap;

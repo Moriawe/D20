@@ -1,4 +1,4 @@
-<style>
+<style lang="scss" scoped>
 #about {
   display: flex;
   flex-wrap: wrap;

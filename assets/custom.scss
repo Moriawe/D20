@@ -52,25 +52,5 @@ $custom-colors: (
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
-
-// DO I need these?
-$body-bg: map-get($theme-colors, 'primary-background');
-$body-color: map-get($theme-colors, 'text-color');
-
-$list-group-color: map-get($theme-colors, 'text-color');
-$list-group-bg: map-get($theme-colors, 'primary-background');
-$list-group-border-color: map-get($theme-colors, 'primary-background');
-
-$list-group-hover-bg: map-get($theme-colors, 'primary-background');
-$list-group-active-color: map-get($theme-colors, 'primary-background');
-
-$list-group-disabled-color: gray-600;
-$list-group-disabled-bg: list-group-bg;
-
-$list-group-action-hover-color: map-get($theme-colors, 'primary');
-
-$list-group-action-active-color: map-get($theme-colors, 'primary');
-$list-group-action-active-bg: list-group-bg;
-
 // import bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";

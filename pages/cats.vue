@@ -1,4 +1,4 @@
-<style scoped>
+<style lang="scss" scoped>
 .col-md-4 {
   align-self: center;
 }
