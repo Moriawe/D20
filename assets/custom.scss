@@ -1,12 +1,21 @@
 
 // Fonts
 @charset "UTF-8";
+
 @font-face {
   font-family: 'Annie Use Your Telescope';
   font-weight: normal;
   font-style: normal;
   src: url('AnnieUseYourTelescope-Regular.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'Bolton';
+  font-weight: normal;
+  font-style: normal;
+  src: url('Bolton.ttf') format('truetype');
+}
+
 
 // change bootstrap
 $primary: #4ba2ca;
@@ -23,7 +32,10 @@ $theme-colors: (
   'text-color': #185a9d,
 );
 
+$font-family-sans-serif: Roboto, Sans-serif;
+
 // Regular CSS
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Annie Use Your Telescope', sans-serif;
 }

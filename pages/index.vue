@@ -1,10 +1,13 @@
 <style lang="scss" scoped>
+a {
+  color: white;
+}
+
 .news {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-
 .card {
   color: white;
   margin: 20px;
@@ -50,12 +53,13 @@ img {
           <div class="card-body">
             <h2 class="card-title">Kakkullen är född</h2>
             <p class="card-text">
-              <small class="text-muted">2022-07-17</small>
+              <small>2022-07-17</small>
             </p>
             <p class="card-text">
               Tidigt på morgonen föddes fyra små kattungar. En kille och tre
               tjejer!
             </p>
+            <a href="/kittens">Mer info</a>
           </div>
         </div>
       </div>
@@ -67,7 +71,7 @@ img {
           <div class="card-body">
             <h2 class="card-title">Ny lag om id-märkning</h2>
             <p class="card-text">
-              <small class="text-muted">2022-06-15</small>
+              <small>2022-06-15</small>
             </p>
             <p class="card-text">
               Från och med januari 2023 skall alla katter registreras och
@@ -83,7 +87,7 @@ img {
           <img
             src="/img/news/catId.jpg"
             class="img-fluid rounded-start"
-            alt="nyfödda kattungar"
+            alt="Katt ID-kort från Animal Tracker"
           />
         </div>
       </div>
@@ -95,7 +99,7 @@ img {
           <img
             src="/img/news/kittens14.jpg"
             class="img-fluid rounded-start"
-            alt="nyfödda kattungar"
+            alt="Små kattungar i gräset"
           />
         </div>
         <div class="col-md-8">
@@ -104,7 +108,7 @@ img {
               Kattungar får inte flytta innan 14 veckor
             </h2>
             <p class="card-text">
-              <small class="text-muted">2022-05-29</small>
+              <small>2022-05-29</small>
             </p>
             <p class="card-text">
               På FIFEs generalförsamling har det tagits beslut att from 1
@@ -122,7 +126,7 @@ img {
           <div class="card-body">
             <h2 class="card-title">Resa till Åbo</h2>
             <p class="card-text">
-              <small class="text-muted">2022-05-11</small>
+              <small>2022-05-11</small>
             </p>
             <p class="card-text">
               Vi åker till Åbo med Kakan för att träffa Kyöpelivuoren Nellin
@@ -135,7 +139,7 @@ img {
           <img
             src="/img/news/turku.jpg"
             class="img-fluid rounded-start"
-            alt="nyfödda kattungar"
+            alt="Katten Kakan i ett runt båtfönster påväg till Åbo"
           />
         </div>
       </div>
@@ -147,7 +151,7 @@ img {
           <img
             src="/img/news/swedishFlag.jpg"
             class="img-fluid rounded-start"
-            alt="nyfödda kattungar"
+            alt="svenska flaggan"
           />
         </div>
         <div class="col-md-8">
@@ -156,7 +160,7 @@ img {
               Europén utsedd till Sveriges Nationalras!
             </h2>
             <p class="card-text">
-              <small class="text-muted">2022-04-05</small>
+              <small>2022-04-05</small>
             </p>
             <p class="card-text">
               <a
