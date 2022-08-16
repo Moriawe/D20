@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     link: [
       {
         rel: "stylesheet",
-        href: "/assets/custom.scss"
+        href: "./assets/custom.scss"
       },
       {
         rel: 'stylesheet',
