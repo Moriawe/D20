@@ -7,9 +7,13 @@ export default defineNuxtConfig({
   },
   meta: {
     link: [
+     // {
+     //   rel: "stylesheet",
+     //   href: "/assets/custom.css"
+     // },
       {
         rel: "stylesheet",
-        href: "/assets/custom.css"
+        href: "https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       },
       {
         rel: 'stylesheet',
