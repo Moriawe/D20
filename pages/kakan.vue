@@ -79,8 +79,12 @@ export default {
   <div class="container-md">
     <h1>Kakan</h1>
     <p>
-      Kakan är vår första hona. Hon är en riktigt smart katt som gillar
-      utmaningar och att ta promenader i skogen.
+      Kakan tycker om att gå på promenader i skogen intill huset men har även
+      följt med på lite tuffare äventyr i kanot och dagsturer i naturreservat.
+    </p>
+    <p>
+      Hon är en smart katt och vi tränar henne på olika trick och underhåller
+      henne med leksaker där hon får tänka till.
     </p>
     <h2>Fotoalbum</h2>
     <BootstrapGallery :images="pictures" />

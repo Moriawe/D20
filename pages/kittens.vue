@@ -1,4 +1,7 @@
 <style lang="scss" scoped>
+h3 {
+  margin-top: 0rem;
+}
 .litter {
   text-align: center;
 }

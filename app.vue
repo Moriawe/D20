@@ -20,6 +20,8 @@ h5,
 h6,
 .h6 {
   font-family: "Annie Use Your Telescope", sans-serif;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 h1,

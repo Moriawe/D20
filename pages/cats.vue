@@ -1,4 +1,8 @@
 <style lang="scss" scoped>
+h2,
+h3 {
+  margin: 0.5rem;
+}
 .col-md-4 {
   align-self: center;
 }
@@ -8,11 +12,11 @@
   <div class="container-md">
     <h1>Våra katter</h1>
 
-    <div class="card mb-3 mx-auto" style="max-width: 700px">
+    <div class="card shadow mb-3 mx-auto">
       <div class="row g-0">
         <div class="col-md-4">
           <img
-            src="/img/kakan.jpg"
+            src="/img/kakan/kakan_20220201.jpg"
             class="img-fluid rounded-start"
             alt="En bild på vår katt Kakan"
           />
@@ -23,6 +27,9 @@
             <h3>"Kakan"</h3>
             <p class="card-text">
               <small class="text-muted">♀ Född: 2019-11-18</small>
+            </p>
+            <p class="card-text">
+              <small class="text-muted">Svartsköldpadda ( f )</small>
             </p>
             <p class="card-text">
               <a
@@ -37,11 +44,11 @@
       </div>
     </div>
 
-    <div class="card mb-3 mx-auto" style="max-width: 700px">
+    <div class="card shadow mb-3 mx-auto">
       <div class="row g-0">
         <div class="col-md-4">
           <img
-            src="/img/skuggan.jpg"
+            src="/img/skuggan/skuggan_20211202.jpg"
             class="img-fluid rounded-start"
             alt="En bild på vår katt Skuggan"
           />
@@ -52,6 +59,9 @@
             <h3>"Skuggan"</h3>
             <p class="card-text">
               <small class="text-muted">♂ Född: 2020-06-13</small>
+            </p>
+            <p class="card-text">
+              <small class="text-muted">Svart smoke ( ns )</small>
             </p>
             <p class="card-text">
               <a

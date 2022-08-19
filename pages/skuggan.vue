@@ -80,10 +80,12 @@ export default {
 <template>
   <div class="container-md">
     <h1>Skuggan</h1>
+    <p>Skuggan är vår kastrerade hane som agerar lekfarbror med kattungarna.</p>
     <p>
-      Skuggan är vår kastrerade hane som agerar lekfarbror med kattungarna. Han
-      tycker mycket om bus och lek men har även tid att mysa en stund i sängen
-      under högljutt purrande.
+      Han tycker mycket om bus och lek men har även tid att mysa en stund i
+      sängen under högljutt purrande. Favoritleksaker är grässtrån, "magic
+      worm", lådor, prassliga saker, grässtrån, fingrar bakom hyllor (han är
+      superförsiktig), flugor etc.
     </p>
     <h2>Fotoalbum</h2>
     <BootstrapGallery :images="pictures" />

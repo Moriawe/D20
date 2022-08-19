@@ -11,6 +11,11 @@ a {
 .card {
   color: white;
   margin: 20px;
+  max-width: 840px;
+}
+
+.col-md-4 {
+  align-self: center;
 }
 
 .green {
@@ -28,7 +33,8 @@ a {
 img {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   border-radius: 5px;
-  margin: 15px;
+  width: 100%;
+  padding: 10px;
 }
 </style>
 
@@ -40,7 +46,7 @@ img {
   <div class="news">
     <h2>Nyheter</h2>
 
-    <div class="card mb-3 blue" style="max-width: 840px">
+    <div class="card mb-3 blue">
       <div class="row g-0">
         <div class="col-md-8">
           <div class="card-body">
@@ -65,7 +71,7 @@ img {
       </div>
     </div>
 
-    <div class="card mb-3 green" style="max-width: 840px">
+    <div class="card mb-3 green">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -90,7 +96,7 @@ img {
       </div>
     </div>
 
-    <div class="card mb-3 teal" style="max-width: 840px">
+    <div class="card mb-3 teal">
       <div class="row g-0">
         <div class="col-md-8">
           <div class="card-body">
@@ -118,7 +124,7 @@ img {
       </div>
     </div>
 
-    <div class="card mb-3 blue" style="max-width: 840px">
+    <div class="card mb-3 blue">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -145,7 +151,7 @@ img {
       </div>
     </div>
 
-    <div class="card mb-3 green" style="max-width: 840px">
+    <div class="card mb-3 green">
       <div class="row g-0">
         <div class="col-md-8">
           <div class="card-body">
@@ -170,7 +176,7 @@ img {
       </div>
     </div>
 
-    <div class="card mb-3 teal" style="max-width: 840px">
+    <div class="card mb-3 teal">
       <div class="row g-0">
         <div class="col-md-4">
           <img
