@@ -1,3 +1,64 @@
+<script>
+export default {
+  data() {
+    return {
+      pictures: [
+        {
+          id: 1,
+          image: "/img/kakkullen/20220804_baddaren0.jpg",
+          title: "Baddaren 4/8 2022",
+        },
+        {
+          id: 2,
+          image: "/img/kakkullen/20220804_baddaren2.jpg",
+          title: "Baddaren 4/8 2022",
+        },
+        {
+          id: 3,
+          image: "/img/kakkullen/20220804_baddaren3.jpg",
+          title: "Baddaren 4/8 2022",
+        },
+        {
+          id: 4,
+          image: "/img/kakkullen/20220804_baddaren4.jpg",
+          title: "Baddaren 4/8 2022",
+        },
+        {
+          id: 5,
+          image: "/img/kakkullen/20220804_baddaren5.jpg",
+          title: "Baddaren 4/8 2022",
+        },
+        {
+          id: 6,
+          image: "/img/kakkullen/baddaren4-4weeks.jpg",
+          title: "Baddaren 16/8 2022",
+        },
+        {
+          id: 7,
+          image: "/img/kakkullen/baddaren2-4weeks.jpg",
+          title: "Baddaren 16/8 2022",
+        },
+        {
+          id: 8,
+          image: "/img/kakkullen/baddaren3-4weeks.jpg",
+          title: "Baddaren 16/8 2022",
+        },
+        {
+          id: 9,
+          image: "/img/kakkullen/baddaren1-4weeks.jpg",
+          title: "Baddaren 16/8 2022",
+        },
+        {
+          id: 10,
+          image: "/img/kakkullen/baddaren5-4weeks.jpg",
+          title: "Baddaren 16/8 2022",
+        },
+      ],
+    }
+  },
+}
+</script>
+baddaren2-4weeks
 <style lang="scss" scoped>
 .gallery {
   display: flex;
@@ -13,7 +74,7 @@
   <div class="container-md">
     <h1>D20's Baddaren</h1>
 
-    <h3>3 veckor</h3>
+    <h2>3 veckor</h2>
     <p>
       Förstfödd, störst och enda hanen så gör Baddaren skäl för sitt namn. Han
       är lugn och trygg och utforskar gärna omvärlden. När han inte utforskar
@@ -21,26 +82,6 @@
       munnen.
     </p>
 
-    <h3>Galleri</h3>
-    <div class="gallery">
-      <a href="/img/kakkullen/20220804_baddaren0.jpg"
-        ><img src="/img/kakkullen/20220804_baddaren0.jpg" alt="" class="thumb"
-      /></a>
-      <a href="/img/kakkullen/20220804_baddaren1.jpg">
-        <img src="/img/kakkullen/20220804_baddaren1.jpg" alt="" class="thumb" />
-      </a>
-      <a href="/img/kakkullen/20220804_baddaren2.jpg">
-        <img src="/img/kakkullen/20220804_baddaren2.jpg" alt="" class="thumb" />
-      </a>
-      <a href="/img/kakkullen/20220804_baddaren3.jpg">
-        <img src="/img/kakkullen/20220804_baddaren3.jpg" alt="" class="thumb" />
-      </a>
-      <a href="/img/kakkullen/20220804_baddaren4.jpg">
-        <img src="/img/kakkullen/20220804_baddaren4.jpg" alt="" class="thumb" />
-      </a>
-      <a href="/img/kakkullen/20220804_baddaren5.jpg">
-        <img src="/img/kakkullen/20220804_baddaren5.jpg" alt="" class="thumb" />
-      </a>
-    </div>
+    <BootstrapGallery :images="pictures" />
   </div>
 </template>
