@@ -17,6 +17,12 @@
 .card {
   margin: 20px;
 }
+
+.card-body {
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+}
 </style>
 
 <template>
@@ -36,67 +42,68 @@
         >
       </div>
       <div class="card-group">
-        <div class="card">
+        <div class="card shadow">
           <img
-            src="/img/kakkullen/20220804_baddaren5.jpg"
+            src="/img/kakkullen/baddaren3-4weeks.jpg"
             class="card-img-top"
             alt="Baddaren"
           />
           <div class="card-body">
-            <h5 class="card-title">
-              <a href="/kakkullen/baddaren">Baddaren</a>
-            </h5>
+            <h3 class="card-title">Baddaren</h3>
             <p class="card-text">
               <small class="text-muted">♂ Svart (EUR n)</small>
             </p>
             <p>BOKAD för avel!</p>
           </div>
+          <a href="/kakkullen/baddaren" class="stretched-link"></a>
         </div>
-        <div class="card">
+
+        <div class="card shadow">
           <img
-            src="/img/kakkullen/20220804_brago2.jpg"
+            src="/img/kakkullen/brago2-4weeks.jpg"
             class="card-img-top"
             alt="Brago"
           />
           <div class="card-body">
-            <h5 class="card-title"><a href="/kakkullen/brago">Brago</a></h5>
+            <h3 class="card-title">Brago</h3>
             <p class="card-text">
-              <small class="text-muted">♀ Röd smoke? (EUR ds?)</small>
+              <small class="text-muted">♀ Röd (EUR d) Eventuellt smoke </small>
             </p>
           </div>
+          <a href="/kakkullen/brago" class="stretched-link"></a>
         </div>
-        <div class="card">
+
+        <div class="card shadow">
           <img
-            src="/img/kakkullen/20220804_ballerina3.jpg"
+            src="/img/kakkullen/ballerina3-4weeks.jpg"
             class="card-img-top"
             alt="Ballerina"
           />
           <div class="card-body">
-            <h5 class="card-title">
-              <a href="/kakkullen/ballerina">Ballerina</a>
-            </h5>
+            <h3 class="card-title">Ballerina</h3>
             <p class="card-text">
               <small class="text-muted">♀ Svartsköldpadda smoke (EUR fs)</small>
             </p>
             <p>SÖKER ev. fodervärd!</p>
           </div>
+          <a href="/kakkullen/ballerina" class="stretched-link"></a>
         </div>
-        <div class="card">
+
+        <div class="card shadow">
           <img
-            src="/img/kakkullen/20220804_singoalla4.jpg"
+            src="/img/kakkullen/singoalla4-4weeks.jpg"
             class="card-img-top"
             alt="Singoalla"
           />
           <div class="card-body">
-            <h5 class="card-title">
-              <a href="/kakkullen/singoalla">Singoalla</a>
-            </h5>
+            <h3 class="card-title">Singoalla</h3>
             <p class="card-text">
               <small class="text-muted"
                 >♀️ Svartsköldpadda smoke (EUR fs)</small
               >
             </p>
           </div>
+          <a href="/kakkullen/singoalla" class="stretched-link"></a>
         </div>
       </div>
     </div>

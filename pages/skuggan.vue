@@ -10,9 +10,10 @@ export default {
         },
         {
           id: 2,
-          image: "/img/skuggan/skuggan_20210511.jpg",
-          title: "Favvoleksaken (11/5 -21)",
+          image: "/img/skuggan/skuggan_20210806.jpg",
+          title: "Skuggans päls (5/8 -21)",
         },
+
         {
           id: 3,
           image: "/img/skuggan/skuggan_20210630.jpg",
@@ -25,8 +26,8 @@ export default {
         },
         {
           id: 5,
-          image: "/img/skuggan/skuggan_20210806.jpg",
-          title: "Skuggans päls (5/8 -21)",
+          image: "/img/skuggan/skuggan_20210511.jpg",
+          title: "Favvoleksaken (11/5 -21)",
         },
         {
           id: 6,

@@ -30,7 +30,7 @@ export default {
 </style>
 
 <template>
-  <nav class="navbar navbar-expand-lg fs-5">
+  <nav class="navbar sticky-top navbar-expand-lg fs-5">
     <div class="container-fluid">
       <img class="logo" src="/img/D20Logo.png" alt="home" />
       <a class="navbar-brand fs-1" href="/">D20's kattuppfödning</a>

@@ -2,18 +2,6 @@
 .col-md-4 {
   align-self: center;
 }
-
-.stretched-link::after {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 1;
-  pointer-events: auto;
-  content: "";
-  background-color: rgba(0, 0, 0, 0);
-}
 </style>
 
 <template>
