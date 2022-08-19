@@ -2,11 +2,24 @@
 .col-md-4 {
   align-self: center;
 }
+
+.stretched-link::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  pointer-events: auto;
+  content: "";
+  background-color: rgba(0, 0, 0, 0);
+}
 </style>
 
 <template>
   <div class="container-md">
     <h1>Våra katter</h1>
+
     <div class="card mb-3 mx-auto" style="max-width: 700px">
       <div class="row g-0">
         <div class="col-md-4">
@@ -32,6 +45,7 @@
             </p>
           </div>
         </div>
+        <a href="/kakan" class="stretched-link"></a>
       </div>
     </div>
 
@@ -60,6 +74,7 @@
             </p>
           </div>
         </div>
+        <a href="/skuggan" class="stretched-link"></a>
       </div>
     </div>
   </div>

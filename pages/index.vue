@@ -40,6 +40,31 @@ img {
   <div class="news">
     <h2>Nyheter</h2>
 
+    <div class="card mb-3 blue" style="max-width: 840px">
+      <div class="row g-0">
+        <div class="col-md-8">
+          <div class="card-body">
+            <h2 class="card-title">Fotoalbum</h2>
+            <p class="card-text">
+              <small>2022-08-19</small>
+            </p>
+            <p class="card-text">Alla katterna har fått ett eget fotoalbum.</p>
+            <p>
+              Kika gärna under <a href="/cats">våra katter</a> och
+              <a href="/kittens">kattungar</a>
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <img
+            src="/img/kakan/kakan_20200531.jpg"
+            class="img-fluid rounded-start"
+            alt="Kakan i katträdet på balkongen"
+          />
+        </div>
+      </div>
+    </div>
+
     <div class="card mb-3 green" style="max-width: 840px">
       <div class="row g-0">
         <div class="col-md-4">
