@@ -64,6 +64,10 @@ export default {
       Tjejen med den gällaste rösten och en riktig sötlök. Sticker ibland ut
       huvudet ur bolådan men brottas mest med syrran Brago.
     </p>
+    <p>
+      Singo som vi kallar henne tycker om att leka med mammas svans och en av
+      farbror Skuggans luddormar och fiskespöt (utan leksak på).
+    </p>
 
     <h2>Galleri</h2>
 

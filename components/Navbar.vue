@@ -10,6 +10,7 @@ export default {
 <style lang="scss" scoped>
 .navbar {
   background: linear-gradient(90deg, #4298c3 0%, #43cea2 100%);
+  height: 70px;
 }
 
 .navbar .navbar-nav .nav-link:hover {
@@ -21,11 +22,19 @@ export default {
   color: white;
 }
 
+.navbar-toggler-icon {
+  color: black;
+}
+
 .logo {
   filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.25));
   border-radius: 5px;
   max-width: 100px;
   margin: 20px;
+}
+
+#dropdown-header {
+  padding-left: 15px;
 }
 </style>
 
@@ -48,10 +57,6 @@ export default {
 
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="/">Hem</a>
-          </li>
-
           <li class="nav-item dropdown">
             <a
               class="nav-link dropdown-toggle"
@@ -110,7 +115,7 @@ export default {
               <li><a class="dropdown-item" href="/kittens">Kullar</a></li>
 
               <li><hr class="dropdown-divider" /></li>
-              <li><b>Kattungar</b></li>
+              <li id="dropdown-header"><b>Kattungar</b></li>
               <li>
                 <a class="dropdown-item" href="/kakkullen/baddaren">Baddaren</a>
               </li>

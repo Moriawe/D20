@@ -3,6 +3,9 @@ a {
   color: white;
 }
 
+h3 {
+  margin-top: 0;
+}
 .news {
   display: flex;
   flex-direction: column;
@@ -30,6 +33,10 @@ a {
   background-color: #29869f;
 }
 
+#welcome {
+  font-size: large;
+}
+
 img {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   border-radius: 5px;
@@ -41,16 +48,16 @@ img {
 <template>
   <div class="container-md">
     <h1 class="display-1">Välkomna!</h1>
-    <p>Vi är en liten uppfödning med Européer.</p>
+    <p id="welcome">
+      Vi är en liten uppfödning med Européer baserade på B(v)ästkusten.
+    </p>
   </div>
   <div class="news">
-    <h2>Nyheter</h2>
-
     <div class="card mb-3 blue">
       <div class="row g-0">
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title">Fotoalbum</h2>
+            <h3 class="card-title">Fotoalbum</h3>
             <p class="card-text">
               <small>2022-08-19</small>
             </p>
@@ -82,7 +89,7 @@ img {
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title">Kakkullen är född</h2>
+            <h3 class="card-title">Kakkullen är född</h3>
             <p class="card-text">
               <small>2022-07-17</small>
             </p>
@@ -100,7 +107,7 @@ img {
       <div class="row g-0">
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title">Ny lag om id-märkning</h2>
+            <h3 class="card-title">Ny lag om id-märkning</h3>
             <p class="card-text">
               <small>2022-06-15</small>
             </p>
@@ -135,9 +142,9 @@ img {
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title">
+            <h3 class="card-title">
               Kattungar får inte flytta innan 14 veckor
-            </h2>
+            </h3>
             <p class="card-text">
               <small>2022-05-29</small>
             </p>
@@ -155,7 +162,7 @@ img {
       <div class="row g-0">
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title">Resa till Åbo</h2>
+            <h3 class="card-title">Resa till Åbo</h3>
             <p class="card-text">
               <small>2022-05-11</small>
             </p>
@@ -187,9 +194,9 @@ img {
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h2 class="card-title">
+            <h3 class="card-title">
               Europén utsedd till Sveriges Nationalras!
-            </h2>
+            </h3>
             <p class="card-text">
               <small>2022-04-05</small>
             </p>

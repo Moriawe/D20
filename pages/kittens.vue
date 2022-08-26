@@ -20,12 +20,6 @@ h3 {
 .card {
   margin: 20px;
 }
-
-.card-body {
-  border-style: solid;
-  border-width: 3px;
-  border-color: black;
-}
 </style>
 
 <template>
@@ -45,7 +39,7 @@ h3 {
         >
       </div>
       <div class="card-group">
-        <div class="card shadow">
+        <div class="card hoverShadow">
           <img
             src="/img/kakkullen/baddaren3-4weeks.jpg"
             class="card-img-top"
@@ -61,7 +55,7 @@ h3 {
           <a href="/kakkullen/baddaren" class="stretched-link"></a>
         </div>
 
-        <div class="card shadow">
+        <div class="card hoverShadow">
           <img
             src="/img/kakkullen/brago2-4weeks.jpg"
             class="card-img-top"
@@ -76,7 +70,7 @@ h3 {
           <a href="/kakkullen/brago" class="stretched-link"></a>
         </div>
 
-        <div class="card shadow">
+        <div class="card hoverShadow">
           <img
             src="/img/kakkullen/ballerina3-4weeks.jpg"
             class="card-img-top"
@@ -92,7 +86,7 @@ h3 {
           <a href="/kakkullen/ballerina" class="stretched-link"></a>
         </div>
 
-        <div class="card shadow">
+        <div class="card hoverShadow">
           <img
             src="/img/kakkullen/singoalla4-4weeks.jpg"
             class="card-img-top"

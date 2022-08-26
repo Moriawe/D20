@@ -55,6 +55,11 @@ export default {
       den bästa platsen. Hon ogillar dock att äventyra utanför lådan utan håller
       sig gärna med mamma.
     </p>
+    <p>
+      Nu är Brago större och tuffare. Hon är en mästare på att klättra (och
+      rymma) och tar sig gärna upp i soffan och spanar ut över sitt
+      drottningdömme. Favoritleksakerna är bollar.
+    </p>
 
     <h2>Galleri</h2>
     <BootstrapGallery :images="pictures" />

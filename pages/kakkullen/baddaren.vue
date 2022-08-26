@@ -74,14 +74,18 @@ baddaren2-4weeks
   <div class="container-md">
     <h1>D20's Baddaren</h1>
 
-    <h2>3 veckor</h2>
     <p>
       Förstfödd, störst och enda hanen så gör Baddaren skäl för sitt namn. Han
       är lugn och trygg och utforskar gärna omvärlden. När han inte utforskar
       marken utanför bolådan snuttar han gärna hos mamma och somnar med nappen i
       munnen.
     </p>
-
+    <p>
+      Baddaren har vuxit upp lite nu och är gärna med de andra och busar runt på
+      golvet. Han är också en riktig gosing och myser gärna i knät när han
+      tröttnat på att busa.
+    </p>
+    <h2>Galleri</h2>
     <BootstrapGallery :images="pictures" />
   </div>
 </template>

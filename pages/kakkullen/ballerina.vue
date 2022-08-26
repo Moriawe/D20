@@ -64,6 +64,9 @@ export default {
       Ballerina är en riktig äventyrare och alltid försten ut ur pölen för att
       utforska rummet utanför. Hon är helt orädd och en grymt bra klättrare.
     </p>
+    <p>
+      Ballerina vill gärna krypa upp och sova i knät hos någon när hon är trött.
+    </p>
 
     <h2>Galleri</h2>
 

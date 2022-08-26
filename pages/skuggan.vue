@@ -77,9 +77,19 @@ export default {
 </script>
 
 <style lang="scss" scoped></style>
+
 <template>
   <div class="container-md">
-    <h1>Skuggan</h1>
+    <h1>
+      Skuggan
+
+      <a
+        href="https://www.pawpeds.com/db/?a=p&id=1521109&g=4&p=eur&o=elastic"
+        target="_blank"
+        ><img class="pedigree" src="/img/pedigree.png"
+      /></a>
+    </h1>
+
     <p>Skuggan är vår kastrerade hane som agerar lekfarbror med kattungarna.</p>
     <p>
       Han tycker mycket om bus och lek men har även tid att mysa en stund i

@@ -48,15 +48,14 @@ li {
     </p>
     <h3>Varför så dyra?</h3>
     <p>
-      Det kostar pengar att göra veterinärbesiktningar, DNA-tester och att hitta
-      en bra hane. Det är väldigt få kattungeuppfödare som tjänar pengar på sin
-      uppfödning. Det är också viktigt att komma ihåg att det inte är gratis att
-      ha en katt och det är viktigt att ha med det i sin beräkning att
-      försäkring, veterinärvård och mat kommer kosta på.
+      Det kostar pengar att göra veterinärbesiktningar, vaccinationer,
+      försäkringar, DNA-tester och att hitta en bra hane. Det är väldigt få
+      kattungeuppfödare som tjänar pengar på sin uppfödning. Det är också
+      viktigt att komma ihåg att det inte är gratis att ha en katt och ha med i
+      sin beräkning att försäkring, veterinärvård och mat, kattsand etc. kommer
+      kosta på.
     </p>
-    <p>
-      I priset ingår även chipmärkning, försäkring, vaccination samt kastrering.
-    </p>
+    <p>I priset ingår även chipmärkning, försäkring samt vaccination</p>
     <p>
       Tyvärr finns det en attityd hos folk att det "bara" är att skaffa en
       kattunge för 10 kr hos närmsta bondgård vilket ger katten en status som
@@ -74,7 +73,7 @@ li {
     <p>
       Vill du göra en god gärning finns det också helt fantastiskt fina katter
       som av olika anledningar saknar en matte eller husse på katthem runt om i
-      Sverige. Där brukar en katt kosta runt 1000 kr.
+      Sverige. Där brukar en katt kosta runt 1000-2000 kr.
     </p>
   </div>
 </template>

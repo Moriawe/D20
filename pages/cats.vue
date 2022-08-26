@@ -12,7 +12,7 @@ h3 {
   <div class="container-md">
     <h1>Våra katter</h1>
 
-    <div class="card shadow mb-3 mx-auto">
+    <div class="card hoverShadow mb-3 mx-auto">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -31,20 +31,13 @@ h3 {
             <p class="card-text">
               <small class="text-muted">Svartsköldpadda ( f )</small>
             </p>
-            <p class="card-text">
-              <a
-                href="https://www.pawpeds.com/db/?a=p&id=1521144&g=4&p=eur&o=elastic"
-                target="_blank"
-                >Stamtavla / Pedigree</a
-              >
-            </p>
           </div>
         </div>
         <a href="/kakan" class="stretched-link"></a>
       </div>
     </div>
 
-    <div class="card shadow mb-3 mx-auto">
+    <div class="card hoverShadow mb-3 mx-auto">
       <div class="row g-0">
         <div class="col-md-4">
           <img
@@ -62,13 +55,6 @@ h3 {
             </p>
             <p class="card-text">
               <small class="text-muted">Svart smoke ( ns )</small>
-            </p>
-            <p class="card-text">
-              <a
-                href="https://www.pawpeds.com/db/?a=p&id=1521109&g=4&p=eur&o=elastic"
-                target="_blank"
-                >Stamtavla / Pedigree</a
-              >
             </p>
           </div>
         </div>

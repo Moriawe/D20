@@ -19,14 +19,10 @@ h5,
 .h5,
 h6,
 .h6 {
+  color: #185a9d;
   font-family: "Annie Use Your Telescope", sans-serif;
   margin-bottom: 2rem;
   margin-top: 2rem;
-}
-
-h1,
-.h1 {
-  color: #185a9d;
 }
 
 .container-md {
@@ -51,6 +47,20 @@ h1,
 .shadow {
   filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.25));
   border-radius: 5px;
+}
+
+.card {
+  border: none;
+  border-bottom: 1px solid #fafafa;
+}
+
+.hoverShadow:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.pedigree {
+  width: 60px;
+  margin-left: 30px;
 }
 </style>
 
