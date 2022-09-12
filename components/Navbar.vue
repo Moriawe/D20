@@ -19,18 +19,15 @@ export default {
 
 .navbar-brand {
   font-family: "Annie Use Your Telescope";
+  font-size: 40px;
   color: white;
-}
-
-.navbar-toggler-icon {
-  color: black;
 }
 
 .logo {
   filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.25));
   border-radius: 5px;
   max-width: 100px;
-  margin: 20px;
+  margin: 10px;
 }
 
 #dropdown-header {

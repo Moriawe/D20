@@ -77,15 +77,7 @@ export default {
 <style lang="scss" scoped></style>
 <template>
   <div class="container-md">
-    <h1>
-      Kakan
-
-      <a
-        href="https://www.pawpeds.com/db/?a=p&id=1521144&g=4&p=eur&o=elastic"
-        target="_blank"
-        ><img class="pedigree" src="/img/pedigree.png"
-      /></a>
-    </h1>
+    <h1>Kakan</h1>
     <p>
       Kakan tycker om att gå på promenader i skogen intill huset men har även
       följt med på lite tuffare äventyr i kanot och dagsturer i naturreservat.

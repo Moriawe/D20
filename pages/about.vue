@@ -40,7 +40,7 @@
         är uppvuxen med en stor orange huskatt som hette Tjalle och när jag fick
         eget hus skaffade jag, tillsammans med min man, en huskatt via en
         kattförening som vi döpte till Katten Solo. Han gick tyvärr bort i
-        februari 2022.
+        februari 2022, 15 år gammal.
       </p>
       <p>
         Min dotter är konstnären som står för alla tecknade bilder på hemsidan.

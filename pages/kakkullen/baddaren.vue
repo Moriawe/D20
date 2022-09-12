@@ -53,6 +53,36 @@ export default {
           image: "/img/kakkullen/baddaren5-4weeks.jpg",
           title: "Baddaren 16/8 2022",
         },
+        {
+          id: 11,
+          image: "/img/kakkullen/baddaren-5weeks.jpg",
+          title: "Baddaren 23/8 2022",
+        },
+        {
+          id: 12,
+          image: "/img/kakkullen/baddaren2-5weeks.jpg",
+          title: "Baddaren 2/9 2022",
+        },
+        {
+          id: 13,
+          image: "/img/kakkullen/baddaren1-7weeks.jpg",
+          title: "Baddaren 7/9 2022",
+        },
+        {
+          id: 14,
+          image: "/img/kakkullen/baddaren2-7weeks.jpg",
+          title: "Baddaren 7/9 2022",
+        },
+        {
+          id: 15,
+          image: "/img/kakkullen/baddaren3-7weeks.jpg",
+          title: "Baddaren 8/9 2022",
+        },
+        {
+          id: 16,
+          image: "/img/kakkullen/baddaren4-7weeks.jpg",
+          title: "Baddaren 8/9 2022",
+        },
       ],
     }
   },
@@ -72,7 +102,7 @@ baddaren2-4weeks
 
 <template>
   <div class="container-md">
-    <h1>D20's Baddaren</h1>
+    <h1>D20's Baddaren the Paladin</h1>
 
     <p>
       Förstfödd, störst och enda hanen så gör Baddaren skäl för sitt namn. Han
@@ -84,6 +114,10 @@ baddaren2-4weeks
       Baddaren har vuxit upp lite nu och är gärna med de andra och busar runt på
       golvet. Han är också en riktig gosing och myser gärna i knät när han
       tröttnat på att busa.
+    </p>
+    <p>
+      8 veckor gammal är Baddaren den största busen av syskonen men också den
+      största gospellen med det högsta purret.
     </p>
     <h2>Galleri</h2>
     <BootstrapGallery :images="pictures" />

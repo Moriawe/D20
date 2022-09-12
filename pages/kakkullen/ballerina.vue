@@ -43,6 +43,41 @@ export default {
           image: "/img/kakkullen/ballerina4-4weeks.jpg",
           title: "Ballerina 16/8 2022",
         },
+        {
+          id: 9,
+          image: "/img/kakkullen/ballerina-5weeks.jpg",
+          title: "Ballerina 23/8 2022",
+        },
+        {
+          id: 10,
+          image: "/img/kakkullen/ballerina2-5weeks.jpg",
+          title: "Ballerina 23/8 2022",
+        },
+        {
+          id: 11,
+          image: "/img/kakkullen/ballerina-6weeks.jpg",
+          title: "Ballerina 24/8 2022",
+        },
+        {
+          id: 12,
+          image: "/img/kakkullen/ballerina1-7weeks.jpg",
+          title: "Ballerina 7/9 2022",
+        },
+        {
+          id: 13,
+          image: "/img/kakkullen/ballerina2-7weeks.jpg",
+          title: "Ballerina 7/9 2022",
+        },
+        {
+          id: 14,
+          image: "/img/kakkullen/ballerina3-7weeks.jpg",
+          title: "Ballerina 7/9 2022",
+        },
+        {
+          id: 15,
+          image: "/img/kakkullen/ballerina4-7weeks.jpg",
+          title: "Ballerina 8/9 2022",
+        },
       ],
     }
   },
@@ -53,7 +88,7 @@ export default {
 
 <template>
   <div class="container-md">
-    <h1>D20's Ballerina</h1>
+    <h1>D20's Ballerina the Rogue</h1>
 
     <p>
       Båda tortisarna verkar brås på sin mor och är lite mindre i storleken. Det

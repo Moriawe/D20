@@ -15,7 +15,7 @@ li {
     <p>
       Ja! Den är vår urgamla, inhemska korthårskatt och direkt ättling till den
       första tamkatten, det är därför den har utsetts till Sveriges nationalras.
-      Skillnaden är att en europé har en stamtavla, den är renrasig.
+      Skillnaden mot en bondkatt/huskatt är att en europé har en stamtavla.
     </p>
     <p>
       Förr i tiden härstammade ALLA tamkatter ifrån två olika vildkattraser, en
@@ -55,7 +55,11 @@ li {
       sin beräkning att försäkring, veterinärvård och mat, kattsand etc. kommer
       kosta på.
     </p>
-    <p>I priset ingår även chipmärkning, försäkring samt vaccination</p>
+    <p>
+      I priset ingår även chipmärkning, försäkring samt vaccination.
+      <a href="/myReceipt">Här</a> kan du se kvittot på mina utlägg för
+      kakkullen.
+    </p>
     <p>
       Tyvärr finns det en attityd hos folk att det "bara" är att skaffa en
       kattunge för 10 kr hos närmsta bondgård vilket ger katten en status som
@@ -68,7 +72,7 @@ li {
       ideella kattföreningar jobbar emot. Idag är det lag på att du inte får
       släppa ut din okastrerade katt utan att ha koll på den, dvs inte låta den
       para sig okontrollerat. Köper du en en huskatt (katt utan stamtavla) från
-      en privatperson sponsrar du ev. någon som bryter mot lagen.
+      en privatperson sponsrar du ev. någon som bryter mot den lagen.
     </p>
     <p>
       Vill du göra en god gärning finns det också helt fantastiskt fina katter

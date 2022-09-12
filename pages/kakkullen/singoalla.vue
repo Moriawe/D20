@@ -48,6 +48,26 @@ export default {
           image: "/img/kakkullen/singoalla4-4weeks.jpg",
           title: "Singoalla 16/8 2022",
         },
+        {
+          id: 10,
+          image: "/img/kakkullen/singoalla-5weeks.jpg",
+          title: "Singoalla 23/8 2022",
+        },
+        {
+          id: 11,
+          image: "/img/kakkullen/singoalla1-7weeks.jpg",
+          title: "Singoalla 7/9 2022",
+        },
+        {
+          id: 12,
+          image: "/img/kakkullen/singoalla2-7weeks.jpg",
+          title: "Singoalla 7/9 2022",
+        },
+        {
+          id: 13,
+          image: "/img/kakkullen/singoalla3-7weeks.jpg",
+          title: "Singoalla 8/9 2022",
+        },
       ],
     }
   },
@@ -58,7 +78,7 @@ export default {
 
 <template>
   <div class="container-md">
-    <h1>D20's Singoalla</h1>
+    <h1>D20's Singoalla the Bard</h1>
 
     <p>
       Tjejen med den gällaste rösten och en riktig sötlök. Sticker ibland ut
@@ -67,6 +87,11 @@ export default {
     <p>
       Singo som vi kallar henne tycker om att leka med mammas svans och en av
       farbror Skuggans luddormar och fiskespöt (utan leksak på).
+    </p>
+    <p>
+      Singo har visat sig vara en riktig utforskare och kommer nog bli en
+      riktigt bra äventyrskatt. Hon gillar att ha på sig selen och ge sig ut på
+      äventyr i huset.
     </p>
 
     <h2>Galleri</h2>

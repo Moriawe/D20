@@ -64,7 +64,7 @@ h3 {
           <div class="card-body">
             <h3 class="card-title">Brago</h3>
             <p class="card-text">
-              <small class="text-muted">♀ Röd (EUR d) Eventuellt smoke </small>
+              <small class="text-muted">♀ Röd smoke (EUR ds)</small>
             </p>
           </div>
           <a href="/kakkullen/brago" class="stretched-link"></a>
@@ -81,7 +81,7 @@ h3 {
             <p class="card-text">
               <small class="text-muted">♀ Svartsköldpadda smoke (EUR fs)</small>
             </p>
-            <p>SÖKER ev. fodervärd!</p>
+            <p></p>
           </div>
           <a href="/kakkullen/ballerina" class="stretched-link"></a>
         </div>
