@@ -25,11 +25,11 @@ h6,
   margin-top: 2rem;
 }
 
+.page-container,
 .container-md {
   background-color: white;
   text-align: center;
   margin: auto;
-  margin-top: 40px;
 }
 
 .stretched-link::after {
@@ -65,7 +65,7 @@ h6,
 </style>
 
 <template>
-  <div class="container-md">
+  <div class="page-container">
     <Navbar />
     <NuxtPage />
     <PageFoot />

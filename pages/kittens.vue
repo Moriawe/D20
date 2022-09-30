@@ -66,6 +66,7 @@ h3 {
             <p class="card-text">
               <small class="text-muted">♀ Röd smoke (EUR ds)</small>
             </p>
+            <p>Stannar hos oss.</p>
           </div>
           <a href="/kakkullen/brago" class="stretched-link"></a>
         </div>

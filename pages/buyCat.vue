@@ -8,7 +8,8 @@ li {
 }
 
 .container-md {
-  padding: 0px 20%;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 </style>
 

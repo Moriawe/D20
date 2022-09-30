@@ -10,11 +10,15 @@ export default {
 <style lang="scss" scoped>
 .navbar {
   background: linear-gradient(90deg, #4298c3 0%, #43cea2 100%);
-  height: 70px;
+  margin-top: 40px;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: white;
 }
 
 .navbar .navbar-nav .nav-link:hover {
-  color: white;
+  color: rgb(168, 211, 214);
 }
 
 .navbar-brand {
@@ -30,30 +34,35 @@ export default {
   margin: 10px;
 }
 
+.navbar-toggler-icon {
+  color: white;
+}
+
 #dropdown-header {
   padding-left: 15px;
 }
 </style>
 
 <template>
-  <nav class="navbar sticky-top navbar-expand-lg fs-5">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <img class="logo" src="/img/D20Logo.png" alt="home" />
       <a class="navbar-brand fs-1" href="/">D20's kattuppfödning</a>
+
       <button
-        class="navbar-toggler"
+        class="navbar-toggler navbar-light"
         type="button"
         data-bs-toggle="collapse"
-        data-bs-target="#navbarNav"
-        aria-controls="navbarNav"
+        data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-        <ul class="navbar-nav">
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item dropdown">
             <a
               class="nav-link dropdown-toggle"
