@@ -100,9 +100,13 @@ export default {
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="/cats">Våra katter</a></li>
+              <li><a class="dropdown-item" href="/kittens">Kullar</a></li>
               <li><hr class="dropdown-divider" /></li>
               <li><a class="dropdown-item" href="/kakan">Kakan</a></li>
               <li><a class="dropdown-item" href="/skuggan">Skuggan</a></li>
+              <li>
+                <a class="dropdown-item" href="/kakkullen/brago">Brago</a>
+              </li>
             </ul>
           </li>
 
@@ -118,16 +122,13 @@ export default {
               Till salu
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <li><a class="dropdown-item" href="/kittens">Kullar</a></li>
-
+              <li id="dropdown-header"><b>Vuxna katter</b></li>
               <li><hr class="dropdown-divider" /></li>
               <li id="dropdown-header"><b>Kattungar</b></li>
               <li>
                 <a class="dropdown-item" href="/kakkullen/baddaren">Baddaren</a>
               </li>
-              <li>
-                <a class="dropdown-item" href="/kakkullen/brago">Brago</a>
-              </li>
+
               <li>
                 <a class="dropdown-item" href="/kakkullen/ballerina"
                   >Ballerina</a

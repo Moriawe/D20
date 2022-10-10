@@ -61,5 +61,30 @@ h3 {
         <a href="/skuggan" class="stretched-link"></a>
       </div>
     </div>
+
+    <div class="card hoverShadow mb-3 mx-auto">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img
+            src="/img/kakkullen/20220919_Brago.jpg"
+            class="img-fluid rounded-start"
+            alt="En bild på vår katt Brago"
+          />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h2 class="card-title">D20's Brago the Barbarian</h2>
+            <h3>"Bra Gó"</h3>
+            <p class="card-text">
+              <small class="text-muted">♀ Född: 2022-07-17</small>
+            </p>
+            <p class="card-text">
+              <small class="text-muted">Röd smoke ( ds )</small>
+            </p>
+          </div>
+        </div>
+        <a href="./kakkullen/brago" class="stretched-link"></a>
+      </div>
+    </div>
   </div>
 </template>
