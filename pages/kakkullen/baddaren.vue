@@ -83,6 +83,11 @@ export default {
           image: "/img/kakkullen/baddaren4-7weeks.jpg",
           title: "Baddaren 8/9 2022",
         },
+        {
+          id: 17,
+          image: "/img/kakkullen/baddis.jpg",
+          title: "Baddaren 25/9 2022",
+        },
       ],
     }
   },
@@ -105,19 +110,15 @@ baddaren2-4weeks
     <h1>D20's Baddaren the Paladin</h1>
 
     <p>
-      Förstfödd, störst och enda hanen så gör Baddaren skäl för sitt namn. Han
-      är lugn och trygg och utforskar gärna omvärlden. När han inte utforskar
-      marken utanför bolådan snuttar han gärna hos mamma och somnar med nappen i
-      munnen.
+      Baddaren tackar aldrig nej till lite bustid. Han gillar i stort sett alla
+      leksaker men hans favorit är små bomullsbollar som han bär omkring i
+      munnen och jagar runt. På kvällarna drabbas han av kvällszoomies och
+      flyger runt huset i jakt på sina systrar.
     </p>
     <p>
-      Baddaren har vuxit upp lite nu och är gärna med de andra och busar runt på
-      golvet. Han är också en riktig gosing och myser gärna i knät när han
-      tröttnat på att busa.
-    </p>
-    <p>
-      8 veckor gammal är Baddaren den största busen av syskonen men också den
-      största gospellen med det högsta purret.
+      När han blir trött kryper han gärna upp tätt intill en människa för lite
+      värme och gos. Purrandet hörs flera rum bort! Baddaren är även rätt pratig
+      (han låter lite som en snäll velociraptor).
     </p>
     <h2>Galleri</h2>
     <BootstrapGallery :images="pictures" />

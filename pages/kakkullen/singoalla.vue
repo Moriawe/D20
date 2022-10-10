@@ -68,6 +68,11 @@ export default {
           image: "/img/kakkullen/singoalla3-7weeks.jpg",
           title: "Singoalla 8/9 2022",
         },
+        {
+          id: 14,
+          image: "/img/kakkullen/20220930_singoalla.jpg",
+          title: "Singoalla 30/9 2022",
+        },
       ],
     }
   },
@@ -81,19 +86,21 @@ export default {
     <h1>D20's Singoalla the Bard</h1>
 
     <p>
-      Tjejen med den gällaste rösten och en riktig sötlök. Sticker ibland ut
-      huvudet ur bolådan men brottas mest med syrran Brago.
+      Singoalla blev tidigt kärleksfullt döpt till “pipsillen” eftersom hon hade
+      det ljudligaste pipet av ungarna. Hon är fortfarande duktig på att berätta
+      var hon är och om hon vill något.
     </p>
     <p>
-      Singo som vi kallar henne tycker om att leka med mammas svans och en av
-      farbror Skuggans luddormar och fiskespöt (utan leksak på).
+      Singo har också visat sig ärvt sin mammas intelligens då det är få problem
+      hon ställs inför som hon inte kan klura ut. Hon tycker också om att
+      upptäcka nya skrymslen och vrår i huset. Hon har visat sig vara en riktig
+      utforskare och kommer nog bli en riktigt bra äventyrskatt. Hon gillar att
+      ha på sig selen och ge sig ut på äventyr i huset.
     </p>
     <p>
-      Singo har visat sig vara en riktig utforskare och kommer nog bli en
-      riktigt bra äventyrskatt. Hon gillar att ha på sig selen och ge sig ut på
-      äventyr i huset.
+      Även Singoalla tycker om närhet och gos och har ett riktigt mysigt
+      purrande.
     </p>
-
     <h2>Galleri</h2>
 
     <BootstrapGallery :images="pictures" />

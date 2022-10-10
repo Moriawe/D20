@@ -78,6 +78,11 @@ export default {
           image: "/img/kakkullen/ballerina4-7weeks.jpg",
           title: "Ballerina 8/9 2022",
         },
+        {
+          id: 16,
+          image: "/img/kakkullen/20220930_Ballerina.jpg",
+          title: "Ballerina 30/9 2022",
+        },
       ],
     }
   },
@@ -91,18 +96,17 @@ export default {
     <h1>D20's Ballerina the Rogue</h1>
 
     <p>
-      Båda tortisarna verkar brås på sin mor och är lite mindre i storleken. Det
-      är dock inget som hindrar Ballerina från att ge sig ut på upptäcksfärd
-      eller ryggbrottas med människohänder i närheten. En riktig mystjej!
+      Ballerina är äventyraren som vågar ge sig iväg utan sina syskons närhet.
+      När de var små var hon den första att ge sig iväg utanför boet. Hon tycker
+      det är jätteroligt att upptäcka och spana in nya miljöer. Vi tror att
+      Ballerina hade kunnat bli en fantastisk äventyrskatt som kan följa med ut
+      i koppel om man vore intresserad av det.
     </p>
     <p>
-      Ballerina är en riktig äventyrare och alltid försten ut ur pölen för att
-      utforska rummet utanför. Hon är helt orädd och en grymt bra klättrare.
+      Hon gillar såklart också att ligga i knät eller på magen och gosa men det
+      får man göra när hon är trött.
     </p>
-    <p>
-      Ballerina vill gärna krypa upp och sova i knät hos någon när hon är trött.
-    </p>
-
+    <p>Favoritleksak: fjädervippan!</p>
     <h2>Galleri</h2>
 
     <BootstrapGallery :images="pictures" />
