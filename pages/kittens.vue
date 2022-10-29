@@ -50,7 +50,7 @@ h3 {
             <p class="card-text">
               <small class="text-muted">♂ Svart (EUR n)</small>
             </p>
-            <p>BOKAD för avel!</p>
+            <p>SÅLD.</p>
           </div>
           <a href="/kakkullen/baddaren" class="stretched-link"></a>
         </div>

@@ -57,7 +57,7 @@ export default {
       </tr>
       <tr>
         <td>Vaccination 2 samt chipmärkning</td>
-        <td>? kr</td>
+        <td>2760 kr</td>
       </tr>
       <tr class="bottom">
         <td>Mat och kattsand</td>
@@ -65,7 +65,7 @@ export default {
       </tr>
       <tr>
         <td>Summa:</td>
-        <td>29 545 kr</td>
+        <td>32 305 kr</td>
       </tr>
     </table>
   </div>

@@ -126,10 +126,6 @@ export default {
               <li><hr class="dropdown-divider" /></li>
               <li id="dropdown-header"><b>Kattungar</b></li>
               <li>
-                <a class="dropdown-item" href="/kakkullen/baddaren">Baddaren</a>
-              </li>
-
-              <li>
                 <a class="dropdown-item" href="/kakkullen/ballerina"
                   >Ballerina</a
                 >
