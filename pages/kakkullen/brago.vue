@@ -78,7 +78,7 @@ export default {
 
 <template>
   <div class="container-md">
-    <h1>D20's Brago the Barbarian</h1>
+    <h1>SE*D20's Brago the Barbarian aka Brago</h1>
 
     <p>
       Största flickan är en riktig brottare och knör gärna undan de andra för

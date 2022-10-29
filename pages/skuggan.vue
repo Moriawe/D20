@@ -81,7 +81,7 @@ export default {
 <template>
   <div class="container-md">
     <h1>
-      Skuggan
+      SE*Ooo's X-Files Smoking Hot Shadow Man aka Skuggan
 
       <a
         href="https://www.pawpeds.com/db/?a=p&id=1521109&g=4&p=eur&o=elastic"

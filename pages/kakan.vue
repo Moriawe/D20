@@ -78,7 +78,7 @@ export default {
 <template>
   <div class="container-md">
     <h1>
-      Kakan
+      S*Silverblommans Tuttifrutti aka Kakan
       <a
         href="https://www.pawpeds.com/db/?a=p&id=1521144&g=4&p=eur&o=elastic"
         target="_blank"
