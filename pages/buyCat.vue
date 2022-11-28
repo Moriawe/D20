@@ -18,7 +18,7 @@ li {
     <h1>Köpa katt</h1>
     <p>
       Våra katter är raskatter och kommer registrerade i SVERAK med stamtavla
-      och med livslång support ifrån oss. En kattunge kostar 13 500 SEK.
+      och med livslång support ifrån oss. En kattunge kostar 10 000 SEK.
     </p>
     <h3>Vad du kan förvänta dig?</h3>
     <p>Kattungen är</p>
