@@ -50,7 +50,7 @@ h3 {
             <p class="card-text">
               <small class="text-muted">♂ Svart (EUR n)</small>
             </p>
-            <p>SÅLD.</p>
+            <p>SÅLD</p>
           </div>
           <a href="/kakkullen/baddaren" class="stretched-link"></a>
         </div>
@@ -82,7 +82,7 @@ h3 {
             <p class="card-text">
               <small class="text-muted">♀ Svartsköldpadda smoke (EUR fs)</small>
             </p>
-            <p></p>
+            <p>SÅLD</p>
           </div>
           <a href="/kakkullen/ballerina" class="stretched-link"></a>
         </div>
@@ -100,6 +100,7 @@ h3 {
                 >♀️ Svartsköldpadda smoke (EUR fs)</small
               >
             </p>
+            <p>SÅLD</p>
           </div>
           <a href="/kakkullen/singoalla" class="stretched-link"></a>
         </div>
