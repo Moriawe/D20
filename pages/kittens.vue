@@ -64,7 +64,7 @@ h3 {
           <div class="card-body">
             <h3 class="card-title">Brago</h3>
             <p class="card-text">
-              <small class="text-muted">♀ Röd smoke (EUR ds)</small>
+              <small class="text-muted">♀ Röd (EUR d)</small>
             </p>
             <p>Stannar hos oss.</p>
           </div>
