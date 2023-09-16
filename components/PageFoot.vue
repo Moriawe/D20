@@ -11,7 +11,7 @@ footer {
 <template>
   <div class="container-md">
     <footer>
-      <p>© Jennie Lindahl 2022</p>
+      <p>© Jennie Lindahl 2023</p>
     </footer>
     Made with Vue@3, Boostrap@5, Nuxt@3 /
     <a

@@ -125,16 +125,6 @@ export default {
               <li id="dropdown-header"><b>Vuxna katter</b></li>
               <li><hr class="dropdown-divider" /></li>
               <li id="dropdown-header"><b>Kattungar</b></li>
-              <li>
-                <a class="dropdown-item" href="/kakkullen/ballerina"
-                  >Ballerina</a
-                >
-              </li>
-              <li>
-                <a class="dropdown-item" href="/kakkullen/singoalla"
-                  >Singoalla</a
-                >
-              </li>
             </ul>
           </li>
 
