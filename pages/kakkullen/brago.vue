@@ -78,21 +78,28 @@ export default {
 
 <template>
   <div class="container-md">
-    <h1>SE*D20's Brago the Barbarian aka Brago</h1>
+    <h1>
+      SE*D20's Brago the Barbarian aka Brago
+      <a
+        href="https://www.pawpeds.com/db/?a=p&id=1631016&g=4&p=eur&o=elastic"
+        target="_blank"
+        ><img class="pedigree" src="/img/pedigree.png"
+      /></a>
+    </h1>
 
     <p>
       Största flickan är en riktig brottare och knör gärna undan de andra för
       den bästa platsen. Hon ogillar dock att äventyra utanför lådan utan håller
-      sig gärna med mamma.
-    </p>
-    <p>
+      sig gärna med mamma.<br />
       Nu är Brago större och tuffare. Hon är en mästare på att klättra (och
       rymma) och tar sig gärna upp i soffan och spanar ut över sitt
-      drottningdömme. Favoritleksakerna är bollar.
-    </p>
-    <p>
+      drottningdömme. Favoritleksakerna är bollar.<br />
       Brago har även utvecklat en mjukare sida där hon gärna kryper upp i knät
       och är med eller tittar på film.
+    </p>
+    <p>
+      Tonårs Brago är vår vilda prinsessa som klättrar överallt och som älskar
+      att busa både med mamma Kakan och farbror Skuggan.
     </p>
 
     <h2>Galleri</h2>
