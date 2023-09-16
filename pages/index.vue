@@ -57,6 +57,13 @@ img {
   <div class="news">
     <div class="card mb-3 blue">
       <div class="row g-0">
+        <div class="col-md-4">
+          <img
+            src="/img/news/agilitywinners.png"
+            class="img-fluid rounded-start"
+            alt="Vinnare av Agilitytävlingen"
+          />
+        </div>
         <div class="col-md-8">
           <div class="card-body">
             <h3 class="card-title">Vi vann!</h3>
@@ -76,13 +83,6 @@ img {
 
     <div class="card mb-3 green">
       <div class="row g-0">
-        <div class="col-md-4">
-          <img
-            src="/img/kakkullen/20220717_072829.jpg"
-            class="img-fluid rounded-start"
-            alt="nyfödda kattungar"
-          />
-        </div>
         <div class="col-md-8">
           <div class="card-body">
             <h3 class="card-title">Vi är på utställning i Örebro</h3>
