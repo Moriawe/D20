@@ -93,36 +93,12 @@ img {
               Vi åker till Conventum i Örebro och går på utställning med Kakan
               och Brago
             </p>
-            <a href="https://www.nerk.se/">NERK som anordnar utställningen</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="card mb-3 green">
-      <div class="row g-0">
-        <div class="col-md-8">
-          <div class="card-body">
-            <h3 class="card-title">Vi är på utställning i Örebro</h3>
-            <p class="card-text">
-              <small>2023-02-25/26</small>
-            </p>
-            <p class="card-text">
-              Vi åker till Conventum i Örebro och går på utställning med Kakan
-              och Brago
-            </p>
             <p>
               <a href="https://www.nerk.se/">NERK som anordnar utställningen</a>
             </p>
           </div>
         </div>
-        <div class="col-md-4">
-          <img
-            src="/img/kakan/kakan_20200531.jpg"
-            class="img-fluid rounded-start"
-            alt="Kakan i katträdet på balkongen"
-          />
-        </div>
+        <div class="col-md-4"></div>
       </div>
     </div>
 
