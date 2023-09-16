@@ -45,13 +45,15 @@ img {
 }
 </style>
 
-<template>¨
+<template>
+  ¨
   <div class="container-md">
     <h1 class="display-1">Välkomna!</h1>
     <p id="welcome">
       Vi är en liten uppfödning med Européer baserade på B(v)ästkusten.
     </p>
   </div>
+
   <div class="news">
     <div class="card mb-3 blue">
       <div class="row g-0">
@@ -61,12 +63,14 @@ img {
             <p class="card-text">
               <small>2022-08-19</small>
             </p>
-            <p class="card-text">Brago vann agility tävlingen både på lördagen och söndagen.
-              Hon krossade allt motstånd med sina 2,38 sekunder.</p>>
+            <p class="card-text">
+              Brago vann agility tävlingen både på lördagen och söndagen. Hon
+              krossade allt motstånd med sina 2,38 sekunder.
+            </p>
+            >
           </div>
         </div>
-        <div class="col-md-4">
-        </div>
+        <div class="col-md-4"></div>
       </div>
     </div>
 
@@ -86,7 +90,8 @@ img {
               <small>2023-02-25/26</small>
             </p>
             <p class="card-text">
-              Vi åker till Conventum i Örebro och går på utställning med Kakan och Brago
+              Vi åker till Conventum i Örebro och går på utställning med Kakan
+              och Brago
             </p>
             <a href="https://www.nerk.se/">NERK som anordnar utställningen</a>
           </div>
@@ -104,20 +109,16 @@ img {
             </p>
             <p class="card-text">
               Alla kattungarna ur kakkullen har nu flyttat till sina nya hem.
-              Baddaren flyttade hela vägen till Norge men Ballerina och Singoalla bor i närheten.
+              Baddaren flyttade hela vägen till Norge men Ballerina och
+              Singoalla bor i närheten.
             </p>
           </div>
         </div>
+      </div>
+    </div>
 
-<!-- NYA SLUT -->
+    <!-- NYA SLUT -->
 
-  <div class="container-md">
-    <h1 class="display-1">Välkomna!</h1>
-    <p id="welcome">
-      Vi är en liten uppfödning med Européer baserade på B(v)ästkusten.
-    </p>
-  </div>
-  <div class="news">
     <div class="card mb-3 blue">
       <div class="row g-0">
         <div class="col-md-8">
