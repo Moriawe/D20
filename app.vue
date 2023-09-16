@@ -68,6 +68,6 @@ h6,
   <div class="page-container">
     <Navbar />
     <NuxtPage />
-    <PageFoot />
+    <!--<PageFoot />-->
   </div>
 </template>
