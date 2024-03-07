@@ -52,7 +52,7 @@ img {
     <p id="welcome">
       Vi är en liten uppfödning med Européer baserade på B(v)ästkusten.
     </p>
-  </div>
+  
 
   <div class="card mb-3 teal">
       <div class="row g-0">
@@ -363,5 +363,6 @@ img {
         </div>
       </div>
     </div>
+  </div>
 
 </template>
