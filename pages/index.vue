@@ -52,7 +52,9 @@ img {
     <p id="welcome">
       Vi är en liten uppfödning med Européer baserade på B(v)ästkusten.
     </p>
-  
+  </div>
+
+  <div class="news">
 
   <div class="card mb-3 teal">
       <div class="row g-0">
@@ -132,7 +134,6 @@ img {
 
         <!-- NYA SLUT -->
 
-  <div class="news">
     <div class="card mb-3 blue">
       <div class="row g-0">
         <div class="col-md-4">
@@ -363,6 +364,6 @@ img {
         </div>
       </div>
     </div>
-  </div>
+
 
 </template>
