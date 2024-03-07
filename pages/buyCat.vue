@@ -29,6 +29,7 @@ li {
       <li>chipmärkta</li>
       <li>vaccinerad två gånger mot kattsnuva och kattpest</li>
       <li>veterinärbesiktigad</li>
+      <li>kastrerad om den går till sällskap</li>
       <li>avmaskad vid behov</li>
       <li>van vid barn</li>
       <li>socialt tränad</li>
@@ -41,7 +42,7 @@ li {
       </li>
       <li>Du följer de lagar och bestämmelser som gäller för katter.</li>
       <li>Vaccinera katten enligt gällande rekommendationer.</li>
-      <li>Att katten kastreras senaste när den blivit 6 månader.</li>
+      <!--<li>Att katten kastreras senaste när den blivit 6 månader.</li>-->
       <li>Sälj inte vidare katten utan att prata med mig.</li>
     </ul>
   </div>
