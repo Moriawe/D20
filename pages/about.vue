@@ -65,7 +65,7 @@
       </p>
       <p>
         <a href="http://www.nationalkatten.se/" target="_blank"
-          ><img src="/img/nationalkatten-logga.png" alt="Européringen"
+          ><img src="/img/nationalkatten-logga.jpg" alt="Européringen"
         /></a>
       </p>
       <p>
