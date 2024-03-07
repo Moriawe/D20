@@ -26,6 +26,21 @@ h3 {
   <div class="container-md">
     <h1>Kattungar</h1>
     <div id="kittens">
+
+      <div class="litter">
+        <h2>Brago ❤️ Illias</h2>
+        <img id="her" src="/img/brago.jpg" alt="Brago" />
+        <img id="him" src="/img/illias.jpg" alt="Illias" />
+        <h2>D20's Monsterkull</h2>
+        <p>Beräknas till Juni 2024</p>
+
+        <a
+          href="https://www.pawpeds.com/db/?a=p&ids=3:1631016;2:1628345&g=4&p=eur&o=elastic"
+          target="_blank"
+          >Stamtavla / Pedigree</a
+        >
+      </div>
+
       <div class="litter">
         <h2>Kakan ❤️ Nuutti</h2>
         <img id="love" src="/img/kakanonuutti.jpg" alt="Kakan o Nuutti" />
