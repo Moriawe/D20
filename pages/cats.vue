@@ -79,7 +79,7 @@ h3 {
               <small class="text-muted">♀ Född: 2022-07-17</small>
             </p>
             <p class="card-text">
-              <small class="text-muted">Röd smoke ( d )</small>
+              <small class="text-muted">Röd ( d )</small>
             </p>
           </div>
         </div>
