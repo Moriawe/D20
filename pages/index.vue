@@ -54,6 +54,84 @@ img {
     </p>
   </div>
 
+  <div class="card mb-3 teal">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img
+            src="/img/illias.jpg"
+            class="img-fluid rounded-start"
+            alt="Dannebrogen"
+          />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h3 class="card-title">Brago skall paras</h3>
+            <p class="card-text">
+              <small>2023-09-24</small>
+            </p>
+            <p class="card-text">
+              Brago skall träffa den stilige Illias från Danmark. 
+              Vi hoppas på kattungar i juni.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4"></div>
+      </div>
+    </div>
+
+  <div class="news">
+    <div class="card mb-3 green">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img
+            src="/img/dannebrogen.jpg"
+            class="img-fluid rounded-start"
+            alt="Dannebrogen"
+          />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h3 class="card-title">Första internationella utställningen</h3>
+            <p class="card-text">
+              <small>2024-03-16/17</small>
+            </p>
+            <p class="card-text">
+              Vi skall till Hammel i Danmark på utställning med Brago och Skuggan.
+              Det är dessutom en Europé special!
+            </p>
+            <p>
+              <a href="https://jyrak.dk/">JYRAK</a>
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4"></div>
+      </div>
+    </div>
+  </div>
+
+    <div class="card mb-3 teal">
+      <div class="row g-0">
+        <div class="col-md-8">
+          <div class="card-body">
+            <h3 class="card-title">Utställning i V.Frölunda</h3>
+            <p class="card-text">
+              <small>2023-09-16/17</small>
+            </p>
+            <p class="card-text">
+              Brago och Kakan har varit på utställning i V.Frölunda. 
+              Brago fick sina cert och blev Champion och Kakan Premier!
+            </p>
+            <p>
+              <a href="https://nya.vastsvenskakattklubben.se/">Västsvenska kattklubben</a>
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4"></div>
+      </div>
+    </div>
+
+        <!-- NYA SLUT -->
+
   <div class="news">
     <div class="card mb-3 blue">
       <div class="row g-0">
@@ -79,6 +157,7 @@ img {
         </div>
         <div class="col-md-4"></div>
       </div>
+    </div>
     </div>
 
     <div class="card mb-3 green">
@@ -126,8 +205,6 @@ img {
         </div>
       </div>
     </div>
-
-    <!-- NYA SLUT -->
 
     <div class="card mb-3 blue">
       <div class="row g-0">
@@ -286,5 +363,5 @@ img {
         </div>
       </div>
     </div>
-  </div>
+
 </template>

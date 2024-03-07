@@ -64,11 +64,15 @@
         /></a>
       </p>
       <p>
+        <a href="http://www.nationalkatten.se/" target="_blank"
+          ><img src="/img/nationalkatten-logga.gif" alt="Européringen"
+        /></a>
+      </p>
+      <p>
         <a href="http://europeringen.se/" target="_blank"
           ><img src="/img/europeringenLogo.gif" alt="Européringen"
         /></a>
       </p>
-      <p>Svensk Nationalkatt</p>
       <p>
         <a href="https://elfsborgskatten.se/" target="_blank"
           ><img src="/img/elfborgskattenLogo.jpg" alt="Elfborgskatten"
