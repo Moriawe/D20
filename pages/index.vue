@@ -65,9 +65,9 @@ img {
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h3 class="card-title">Brago skall paras</h3>
+            <h3 class="card-title">Brago skall på date</h3>
             <p class="card-text">
-              <small>2023-09-24</small>
+              <small>2024-03-24</small>
             </p>
             <p class="card-text">
               Brago skall träffa den stilige Illias från Danmark.
@@ -143,7 +143,6 @@ img {
               Brago vann agility tävlingen både på lördagen och söndagen. Hon
               krossade allt motstånd med sina 2,38 sekunder.
             </p>
-            >
           </div>
         </div>
         <div class="col-md-4"></div>
